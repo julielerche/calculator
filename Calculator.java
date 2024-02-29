@@ -19,4 +19,7 @@ public class Calculator {
         double c = a / b;
         return c;
     }
+    public void helloworld(){
+        System.out.println("Hello");
+    }
 }
